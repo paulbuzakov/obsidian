@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eff425adfc21dc63",
+        "id": "ab1269fecb1f732f",
         "type": "tabs",
         "children": [
           {
-            "id": "982663365b3782c8",
+            "id": "3330d0aa5b20fcd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Social Media/Dehancer Pro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#develop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "553ffba3868c69be",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social Media/Dehancer Pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Social Media/Dehancer Pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Social Media/Dehancer Pro.md"
+              }
             }
           }
         ]
@@ -140,9 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "982663365b3782c8",
+  "active": "3330d0aa5b20fcd0",
   "lastOpenFiles": [
-    "Dehancer Pro.md",
+    "Social Media/Photo Content Creating.md",
+    "Social Media/Dehancer Pro.md",
+    "Social Media/Video Content Creating.md",
+    "IT/GIT/FAQ - GIT.md",
+    "IT",
+    "Untitled.md",
+    "IT/GIT",
+    "IT/Software Developer/{PROC} Interviewing for Software Developers.md",
+    "IT/Software Developer",
+    "Social Media",
+    "IT/NeoVIM/{PROC} NeoVIM IDE.md",
+    "IT/NeoVIM",
+    "IT/SQL/SQL - Transactions.md",
+    "IT/SQL/FAQ - SQL.md",
+    "IT/SQL/{PROC} SQL - LOCKS.md",
+    "IT/SQL/{PROC} SQL.md",
+    "IT/SQL",
+    "IT/SQL",
+    "Untitled/Untitled",
+    "Untitled.canvas",
     "VIDEO.md"
   ]
 }
