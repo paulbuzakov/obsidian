@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1269fecb1f732f",
+        "id": "1162fe68f4e10ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "3330d0aa5b20fcd0",
+            "id": "08995d25099a719a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/{PROC} SQL - LOCKS.md",
+                "file": "IT/SQL/{PROC} SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/{PROC} SQL - LOCKS.md",
+                "file": "IT/SQL/{PROC} SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/{PROC} SQL - LOCKS.md",
+                "file": "IT/SQL/{PROC} SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/{PROC} SQL - LOCKS.md"
+                "file": "IT/SQL/{PROC} SQL.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3330d0aa5b20fcd0",
+  "active": "08995d25099a719a",
   "lastOpenFiles": [
+    "IT/SQL/SQL - LOCKS.md",
     "IT/SQL/FAQ - SQL.md",
     "IT/SQL/SQL - Transactions.md",
     "Social Media/Untitled.md",
@@ -155,7 +156,6 @@
     "Social Media/The Everyday LUT.cube.zip",
     "The Everyday LUT.cube",
     "The Everyday LUT.cube.zip",
-    "IT/SQL/{PROC} SQL - LOCKS.md",
     "IT/SQL/{PROC} SQL.md",
     "Social Media/Dehancer Pro.md",
     "Social Media/Photo Content Creating.md",
