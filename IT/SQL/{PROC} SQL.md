@@ -1,3 +1,5 @@
 [[FAQ - SQL]]
+[[SQL - Views]]
+[[SQL - Index]]
 [[SQL - Transactions]]
-[[SQL - LOCKS]]
+[[SQL - Locks]]

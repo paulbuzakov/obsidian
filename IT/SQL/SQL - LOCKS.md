@@ -1,4 +1,4 @@
-# SQL: LOCKS
+# SQL: Locks
 
 **_Блокировка_** - механизм предотвращения одновременного конкурентного доступа к данным.
 
@@ -34,3 +34,5 @@ SET LOCK_TIMEOUT 8000(миллисекунд)
 ```
 SET DEADLOCK_PRIORITY {LOW | NORMAL | HIGHT | -10 ... 10}
 ```
+### Tags:
+#sql #develop #interview
