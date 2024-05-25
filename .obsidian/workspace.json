@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Media/Dehancer Pro.md",
+                "file": "IT/SQL/{PROC} SQL - LOCKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#develop",
+                "query": "tag:#interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Media/Dehancer Pro.md",
+                "file": "IT/SQL/{PROC} SQL - LOCKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Media/Dehancer Pro.md",
+                "file": "IT/SQL/{PROC} SQL - LOCKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Media/Dehancer Pro.md"
+                "file": "IT/SQL/{PROC} SQL - LOCKS.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "3330d0aa5b20fcd0",
   "lastOpenFiles": [
-    "Social Media/Photo Content Creating.md",
+    "IT/SQL/FAQ - SQL.md",
+    "IT/SQL/SQL - Transactions.md",
+    "Social Media/Untitled.md",
+    "Social Media/The Everyday LUT.md",
+    "Social Media/The Everyday LUT.cube.zip",
+    "The Everyday LUT.cube",
+    "The Everyday LUT.cube.zip",
+    "IT/SQL/{PROC} SQL - LOCKS.md",
+    "IT/SQL/{PROC} SQL.md",
     "Social Media/Dehancer Pro.md",
+    "Social Media/Photo Content Creating.md",
     "Social Media/Video Content Creating.md",
     "IT/GIT/FAQ - GIT.md",
     "IT",
@@ -160,13 +169,8 @@
     "Social Media",
     "IT/NeoVIM/{PROC} NeoVIM IDE.md",
     "IT/NeoVIM",
-    "IT/SQL/SQL - Transactions.md",
-    "IT/SQL/FAQ - SQL.md",
-    "IT/SQL/{PROC} SQL - LOCKS.md",
-    "IT/SQL/{PROC} SQL.md",
     "IT/SQL",
     "IT/SQL",
-    "Untitled/Untitled",
     "Untitled.canvas",
     "VIDEO.md"
   ]
